@@ -14,11 +14,11 @@
 
 <h2 align="left">About Me</h2>
 
-- 🌱 I’m currently learning **Laravel, PHP**
+- 🌱 I’m currently learning **PHP** and **Laravel**.
 
-- 💬 Ask me about **JavaScript, Python, React, Express**
+- 💬 Ask me about **JavaScript**, **Python**, **React**, and **Express**.
 
-- ⚡ Fun fact **I once fixed a bug and immediately created three new ones 💥**
+- ⚡ Fun fact: **I once fixed a bug and immediately created three new ones**. 💥
 
 ###
 
